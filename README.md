@@ -1,5 +1,5 @@
 
-## Olá! Eu sou o Victor Fraça 👋
+## Olá! Eu sou o Victor França 👋
 
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-fran%C3%A7a-581358ab/)
 
